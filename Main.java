@@ -1,6 +1,6 @@
 /**
  * CS112, Term 3, Individual Project
- * Fran Gordon - 202204644
+ * Fran Gordon
  *
  *
  * Main class - run the application here
